@@ -26,3 +26,20 @@ I want to grow as a Web3 developer, and I believe hands-on work like this proves
 
 ## 📄 License
 MIT
+
+---
+
+## 🏗️ Development Progress
+- Deployed `ZenNFT.sol` on Sepolia testnet via Remix
+- Interacted using React + Ethers.js on frontend (dummy Mint UI setup)
+- Used OpenZeppelin ERC721URIStorage for secure minting structure
+- Learned to set up MetaMask interaction & contract ABI fetch
+
+## 🧠 Challenges & Learning
+- Learned to debug contract deploy issues via console.log events
+- Understood async/await patterns with ethers.js for handling transactions
+- Funnelled learnings back into README for clarity
+
+## 🎯 Purpose
+This project is part of my application for the ZenChain Builder Program.  
+I want to grow as a Web3 developer, and I believe hands-on work like this proves my dedication and learning mindset.
